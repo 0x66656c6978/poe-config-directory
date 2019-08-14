@@ -4,8 +4,8 @@ def format_line(line):
     '''
     Warning: this adds a newline add the end
     '''
-    stripped_line = line.lstrip().rstrip()
-    section_begin = (stripped_line == 'Show') or (stripped_line == 'Hide')
+    stripped_line = line.strip()
+    section_begin = stripped_line.startswith('Show') or stripped_line.startswith('Hide')
     if len(stripped_line) is 0 or stripped_line.startswith('#') or section_begin:
         return stripped_line
     return '\t%s' % stripped_line
