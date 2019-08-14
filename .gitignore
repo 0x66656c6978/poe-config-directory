@@ -1,0 +1,13 @@
+# PoE Cache Directories and Crash Dumps
+Countdown/
+DailyDealCache/
+Minimap/
+MOTDCache/
+ShopImages/
+Screenshots/
+LootFilters_3.6/
+*.dmp
+*.dmp.txt
+
+# Coding related
+.vscode/
