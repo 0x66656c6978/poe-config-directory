@@ -8,6 +8,7 @@ Screenshots/
 LootFilters_3.6/
 *.dmp
 *.dmp.txt
+production_login.credentials
 
 # Coding related
 .vscode/
