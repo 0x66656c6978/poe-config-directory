@@ -562,7 +562,7 @@ Show
 
 Hide
 	Class "Maps"
-	MapTier <= 1
+	MapTier <= 10
 	Rarity <= Rare
 	SetFontSize 48
 
