@@ -548,7 +548,7 @@ Hide
 
 Show
 	Class "Maps"
-	BaseType "Burial Chambers" "Glacier"
+	BaseType "Burial Chambers" "Glacier" "Strand"
 #SetTextColor 0 0 0
 # SetBackgroundColor 255 51 153
 	SetFontSize 48
