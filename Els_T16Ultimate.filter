@@ -1,4 +1,4 @@
-	﻿Show
+Show
 	BaseType "Fishing Rod" "Albino Rhoa Feather" "Orb of Annulment" "Exalted Orb" "Divine Orb" "Mirror of Kalandra" "Eternal Orb" "Mirror Shard" "The Doctor" "The Fiend" "Imprint" "The Nurse" "Timeless Jewel"
 	Rarity >= Normal
 	SetTextColor 255 0 0
